@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Maps Sidebar",
+  "version": "2.2",
+  "description": "Maps odaklı, iframe engeline takılmayan çoklu AI kenar çubuğu.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "sidebar_action": {
+    "default_title": "Maps Sidebar",
+    "default_panel": "sidebar.html",
+    "default_icon": "icon.png"
+  }
+}

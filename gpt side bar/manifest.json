@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "ChatGPT Sidebar",
+  "version": "1.0",
+  "description": "ChatGPT'yi iframe engeline takılmadan Firefox kenar çubuğunda açar.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "sidebar_action": {
+    "default_title": "ChatGPT",
+    "default_panel": "sidebar.html",
+    "default_icon": "icon.png"
+  }
+}
