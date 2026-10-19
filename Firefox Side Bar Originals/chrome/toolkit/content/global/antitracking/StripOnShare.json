@@ -1,0 +1,210 @@
+{
+  "global": {
+    "isGlobal": true,
+    "queryParams": [
+      "_gl",
+      "li_fat_id",
+      "utm_ad",
+      "utm_affiliate",
+      "utm_brand",
+      "utm_campaign",
+      "utm_campaignid",
+      "utm_channel",
+      "utm_cid",
+      "utm_content",
+      "utm_creative",
+      "utm_emcid",
+      "utm_emmid",
+      "utm_id",
+      "utm_id_",
+      "utm_keyword",
+      "utm_medium",
+      "utm_name",
+      "utm_place",
+      "utm_product",
+      "utm_pubreferrer",
+      "utm_reader",
+      "utm_referrer",
+      "utm_serial",
+      "utm_session",
+      "utm_siteid",
+      "utm_social",
+      "utm_social-type",
+      "utm_source",
+      "utm_supplier",
+      "utm_swu",
+      "utm_term",
+      "utm_umguk",
+      "utm_userid",
+      "utm_viz_id",
+      "vero_conv",
+      "ymid",
+      "var",
+      "s_cid",
+      "hsa_grp",
+      "hsa_cam",
+      "hsa_src",
+      "hsa_ad",
+      "hsa_acc",
+      "hsa_kw",
+      "hsa_tgt",
+      "hsa_ver",
+      "hsa_la",
+      "hsa_ol",
+      "hsa_net",
+      "hsa_mt",
+      "wt_mc"
+    ]
+  },
+  "twitter": {
+    "queryParams": ["ref_src", "ref_url"],
+    "hosts": ["www.twitter.com", "twitter.com", "x.com"]
+  },
+  "instagram": {
+    "queryParams": ["igshid", "ig_rid"],
+    "hosts": ["www.instagram.com"]
+  },
+  "amazon": {
+    "queryParams": [
+      "__mk_de_DE",
+      "aaxitk",
+      "content-id",
+      "creativeId",
+      "crid",
+      "dib",
+      "dib_tag",
+      "eac_id",
+      "eac_link",
+      "eac_selected",
+      "hsa_cr_id",
+      "ipRedirectFrom",
+      "ipRedirectOriginalURL",
+      "keywords",
+      "lp_asins",
+      "lp_query",
+      "lp_slot",
+      "overrideBaseCountry",
+      "pageLoadId",
+      "pd_rd_plhdr",
+      "pd_rd_r",
+      "pd_rd_w",
+      "pd_rd_wg",
+      "pf_rd_r",
+      "pf_rd_p",
+      "plink",
+      "psc",
+      "ref",
+      "ref_",
+      "ref_pageloadid",
+      "sbo",
+      "social_share",
+      "source_code",
+      "sprefix",
+      "s_prefix",
+      "sp_csd",
+      "sr",
+      "store_ref"
+    ],
+    "hosts": [
+      "www.amazon.com",
+      "www.amazon.de",
+      "www.amazon.nl",
+      "www.amazon.fr",
+      "www.amazon.co.jp",
+      "www.amazon.in",
+      "www.amazon.es",
+      "www.amazon.ac",
+      "www.amazon.cn",
+      "www.amazon.eg",
+      "www.amazon.co.uk",
+      "www.amazon.it",
+      "www.amazon.pl",
+      "www.amazon.sg",
+      "www.amazon.ca",
+      "www.amazon.com.au",
+      "www.amazon.com.br",
+      "www.amazon.com.mx",
+      "www.amazon.com.be",
+      "www.amazon.com.tr",
+      "www.amazon.sa",
+      "www.amazon.ae",
+      "www.amazon.se",
+      "www.amazon.ie",
+      "www.amazon.co.za",
+      "www.audible.com",
+      "www.audible.co.uk",
+      "www.audible.de",
+      "www.audible.fr",
+      "www.audible.it",
+      "www.audible.ca",
+      "www.audible.com.au",
+      "www.audible.co.jp",
+      "www.audible.in",
+      "www.audible.es",
+      "www.audible.com.br"
+    ]
+  },
+  "handelsblatt": {
+    "queryParams": ["share"],
+    "hosts": ["www.handelsblatt.com"]
+  },
+  "shopee": {
+    "queryParams": ["sp_atk", "xptdk"],
+    "hosts": [
+      "shopee.co.id",
+      "shopee.tw",
+      "shopee.vn",
+      "shopee.co.vn",
+      "shopee.ph",
+      "shopee.com.my",
+      "shopee.sg",
+      "shopee.com.br",
+      "shopee.com.mx",
+      "shopee.com.co",
+      "shopee.cl"
+    ]
+  },
+  "tokopedia": {
+    "queryParams": ["extParam"],
+    "hosts": ["www.tokopedia.com"]
+  },
+  "spotify": {
+    "queryParams": ["si"],
+    "hosts": ["open.spotify.com"]
+  },
+  "meetup": {
+    "queryParams": ["eventOrigin", "recId", "recSource", "searchId"],
+    "hosts": ["www.meetup.com"]
+  },
+  "facebook": {
+    "queryParams": ["__cft__[0]", "__cft__%5B0%5D", "__tn__"],
+    "hosts": ["www.facebook.com"]
+  },
+  "wikimedia": {
+    "queryParams": ["wprov"],
+    "hosts": [
+      "w.wiki",
+      "www.wikidata.org",
+      "test.wikidata.org",
+      "www.wikifunctions.org"
+    ],
+    "schemelessSites": ["wikipedia.org", "wikimedia.org", "mediawiki.org"]
+  },
+  "bilibili": {
+    "queryParams": [
+      "spm_id_from",
+      "broadcast_type",
+      "is_room_feed",
+      "live_from"
+    ],
+    "hosts": ["www.bilibili.com", "space.bilibili.com", "live.bilibili.com"]
+  },
+  "humblebundle": {
+    "queryParams": ["hmb_source", "hmb_medium", "hmb_campaign"],
+    "hosts": ["www.humblebundle.com"]
+  },
+  "linkedin": {
+    "queryParams": ["rcm"],
+    "hosts": ["www.linkedin.com"]
+  }
+}

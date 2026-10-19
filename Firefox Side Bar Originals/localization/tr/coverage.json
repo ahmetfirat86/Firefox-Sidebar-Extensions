@@ -1,0 +1,1294 @@
+{
+  "browser/branding/official/brand.ftl": {
+    "missing": [],
+    "total": 7
+  },
+  "browser/branding/official/brand.properties": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/browser/aboutDialog.ftl": {
+    "missing": [],
+    "total": 43
+  },
+  "browser/browser/aboutLogins.ftl": {
+    "missing": [],
+    "total": 149
+  },
+  "browser/browser/aboutPolicies.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "browser/browser/aboutPrivateBrowsing.ftl": {
+    "missing": [],
+    "total": 29
+  },
+  "browser/browser/aboutRestartRequired.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "browser/browser/aboutRobots.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "browser/browser/aboutSessionRestore.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "browser/browser/aboutTabCrashed.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "browser/browser/aboutUnloads.ftl": {
+    "missing": [],
+    "total": 16
+  },
+  "browser/browser/accounts.ftl": {
+    "missing": [],
+    "total": 24
+  },
+  "browser/browser/addonNotifications.ftl": {
+    "missing": [],
+    "total": 50
+  },
+  "browser/browser/aiFeatures.ftl": {
+    "missing": [],
+    "total": 44
+  },
+  "browser/browser/aiWindow.ftl": {
+    "missing": [],
+    "total": 162
+  },
+  "browser/browser/aiWindowContent.ftl": {
+    "missing": [],
+    "total": 76
+  },
+  "browser/browser/allTabsMenu.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "browser/browser/appExtensionFields.ftl": {
+    "missing": [],
+    "total": 21
+  },
+  "browser/browser/appMenuNotifications.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "browser/browser/appmenu.ftl": {
+    "missing": [],
+    "total": 177
+  },
+  "browser/browser/backgroundtasks/defaultagent.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "browser/browser/backupSettings.ftl": {
+    "missing": [],
+    "total": 110
+  },
+  "browser/browser/browser.ftl": {
+    "missing": [],
+    "total": 507
+  },
+  "browser/browser/browserContext.ftl": {
+    "missing": [],
+    "total": 119
+  },
+  "browser/browser/browserSets.ftl": {
+    "missing": [],
+    "total": 58
+  },
+  "browser/browser/clearDataForSite.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "browser/browser/confirmationHints.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "browser/browser/contentCrash.ftl": {
+    "missing": [],
+    "total": 10
+  },
+  "browser/browser/contentSharing.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "browser/browser/contextual-manager.ftl": {
+    "missing": [],
+    "total": 115
+  },
+  "browser/browser/customizeMode.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "browser/browser/customkeys.ftl": {
+    "missing": [],
+    "total": 65
+  },
+  "browser/browser/defaultBrowserNotification.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "browser/browser/downloads.ftl": {
+    "missing": [],
+    "total": 58
+  },
+  "browser/browser/editBookmarkOverlay.ftl": {
+    "missing": [],
+    "total": 15
+  },
+  "browser/browser/extensionsUI.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "browser/browser/featureCallout.ftl": {
+    "missing": [],
+    "total": 166
+  },
+  "browser/browser/firefoxRelay.ftl": {
+    "missing": [],
+    "total": 25
+  },
+  "browser/browser/firefoxView.ftl": {
+    "missing": [],
+    "total": 120
+  },
+  "browser/browser/fxviewTabList.ftl": {
+    "missing": [],
+    "total": 33
+  },
+  "browser/browser/genai.ftl": {
+    "missing": [],
+    "total": 88
+  },
+  "browser/browser/identityCredentialNotification.ftl": {
+    "missing": [],
+    "total": 8
+  },
+  "browser/browser/ipProtection.ftl": {
+    "missing": [],
+    "total": 149
+  },
+  "browser/browser/linuxDesktopEntry.ftl": {
+    "missing": [],
+    "total": 8
+  },
+  "browser/browser/menubar.ftl": {
+    "missing": [],
+    "total": 107
+  },
+  "browser/browser/migrationWizard.ftl": {
+    "missing": [],
+    "total": 117
+  },
+  "browser/browser/newtab/asrouter.ftl": {
+    "missing": [],
+    "total": 196
+  },
+  "browser/browser/newtab/newtab.ftl": {
+    "missing": [],
+    "total": 824
+  },
+  "browser/browser/newtab/onboarding.ftl": {
+    "missing": [
+      "onboarding-refresh-tou-pin",
+      "onboarding-refresh-tou-default-unchecked",
+      "onboarding-refresh-terms-of-use-with-links"
+    ],
+    "total": 292
+  },
+  "browser/browser/openTabs.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/browser/originControls.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "browser/browser/pageInfo.ftl": {
+    "missing": [],
+    "total": 87
+  },
+  "browser/browser/panelUI.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/panicButton.ftl": {
+    "missing": [],
+    "total": 11
+  },
+  "browser/browser/permissions.ftl": {
+    "missing": [],
+    "total": 11
+  },
+  "browser/browser/places.ftl": {
+    "missing": [],
+    "total": 78
+  },
+  "browser/browser/placesPrompts.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "browser/browser/policies/policies-descriptions.ftl": {
+    "missing": [],
+    "total": 125
+  },
+  "browser/browser/policy-messages.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/browser/preferences/applicationManager.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/preferences/browserIcon.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "browser/browser/preferences/clearSiteData.ftl": {
+    "missing": [],
+    "total": 10
+  },
+  "browser/browser/preferences/colors.ftl": {
+    "missing": [],
+    "total": 8
+  },
+  "browser/browser/preferences/connection.ftl": {
+    "missing": [],
+    "total": 28
+  },
+  "browser/browser/preferences/containers.ftl": {
+    "missing": [],
+    "total": 16
+  },
+  "browser/browser/preferences/fonts.ftl": {
+    "missing": [],
+    "total": 45
+  },
+  "browser/browser/preferences/formAutofill.ftl": {
+    "missing": [],
+    "total": 84
+  },
+  "browser/browser/preferences/fxaPairDevice.ftl": {
+    "missing": [],
+    "total": 7
+  },
+  "browser/browser/preferences/languages.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "browser/browser/preferences/moreFromMozilla.ftl": {
+    "missing": [],
+    "total": 49
+  },
+  "browser/browser/preferences/permissions.ftl": {
+    "missing": [],
+    "total": 83
+  },
+  "browser/browser/preferences/preferences.ftl": {
+    "missing": [],
+    "total": 867
+  },
+  "browser/browser/preferences/selectBookmark.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/browser/preferences/siteDataSettings.ftl": {
+    "missing": [],
+    "total": 19
+  },
+  "browser/browser/preonboarding.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "browser/browser/profile/default-bookmarks.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "browser/browser/profiles.ftl": {
+    "missing": [],
+    "total": 175
+  },
+  "browser/browser/protections.ftl": {
+    "missing": [],
+    "total": 91
+  },
+  "browser/browser/protectionsPanel.ftl": {
+    "missing": [],
+    "total": 40
+  },
+  "browser/browser/recentlyClosed.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "browser/browser/reportBrokenSite.ftl": {
+    "missing": [],
+    "total": 33
+  },
+  "browser/browser/safeMode.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/safebrowsing/blockedSite.ftl": {
+    "missing": [],
+    "total": 30
+  },
+  "browser/browser/sanitize.ftl": {
+    "missing": [],
+    "total": 45
+  },
+  "browser/browser/screenshots.ftl": {
+    "missing": [],
+    "total": 21
+  },
+  "browser/browser/search.ftl": {
+    "missing": [],
+    "total": 37
+  },
+  "browser/browser/setDesktopBackground.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "browser/browser/sharePanel.ftl": {
+    "missing": [],
+    "total": 13
+  },
+  "browser/browser/sidebar.ftl": {
+    "missing": [],
+    "total": 103
+  },
+  "browser/browser/sidebarMenu.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/sitePermissions.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/browser/siteProtections.ftl": {
+    "missing": [],
+    "total": 36
+  },
+  "browser/browser/speechDispatcher.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/spotlight.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/browser/sync.ftl": {
+    "missing": [],
+    "total": 54
+  },
+  "browser/browser/syncedTabs.ftl": {
+    "missing": [],
+    "total": 24
+  },
+  "browser/browser/tabContextMenu.ftl": {
+    "missing": [],
+    "total": 50
+  },
+  "browser/browser/tabbrowser.ftl": {
+    "missing": [],
+    "total": 129
+  },
+  "browser/browser/taskbartabs.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "browser/browser/termsofuse.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "browser/browser/textRecognition.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "browser/browser/toolbarContextMenu.ftl": {
+    "missing": [],
+    "total": 26
+  },
+  "browser/browser/toolbarDropHandler.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/browser/touchbar/touchbar.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "browser/browser/translations.ftl": {
+    "missing": [],
+    "total": 80
+  },
+  "browser/browser/unifiedExtensions.ftl": {
+    "missing": [],
+    "total": 26
+  },
+  "browser/browser/webProtocolHandler.ftl": {
+    "missing": [],
+    "total": 4
+  },
+  "browser/browser/webrtc-preview.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/browser/webrtcIndicator.ftl": {
+    "missing": [],
+    "total": 83
+  },
+  "browser/chrome/browser/browser.properties": {
+    "missing": [],
+    "total": 181
+  },
+  "browser/chrome/browser/customizableui/customizableWidgets.properties": {
+    "missing": [],
+    "total": 28
+  },
+  "browser/chrome/browser/downloads/downloads.properties": {
+    "missing": [],
+    "total": 38
+  },
+  "browser/chrome/browser/feeds/subscribe.properties": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/chrome/browser/places/bookmarkProperties.properties": {
+    "missing": [],
+    "total": 12
+  },
+  "browser/chrome/browser/safebrowsing/safebrowsing.properties": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/chrome/browser/search.properties": {
+    "missing": [],
+    "total": 8
+  },
+  "browser/chrome/browser/siteData.properties": {
+    "missing": [],
+    "total": 3
+  },
+  "browser/chrome/browser/sitePermissions.properties": {
+    "missing": [],
+    "total": 39
+  },
+  "browser/chrome/browser/taskbar.properties": {
+    "missing": [],
+    "total": 8
+  },
+  "browser/chrome/browser/uiDensity.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "browser/chrome/overrides/appstrings.properties": {
+    "missing": [],
+    "total": 43
+  },
+  "browser/installer/custom.properties": {
+    "missing": [],
+    "total": 54
+  },
+  "browser/installer/mui.properties": {
+    "missing": [],
+    "total": 38
+  },
+  "browser/installer/nsisstrings.properties": {
+    "missing": [],
+    "total": 23
+  },
+  "browser/installer/override.properties": {
+    "missing": [],
+    "total": 61
+  },
+  "browser/langpack-metadata.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "browser/updater/updater.ini": {
+    "missing": [],
+    "total": 3
+  },
+  "devtools/client/aboutdebugging.ftl": {
+    "missing": [],
+    "total": 106
+  },
+  "devtools/client/accessibility.ftl": {
+    "missing": [],
+    "total": 32
+  },
+  "devtools/client/accessibility.properties": {
+    "missing": [],
+    "total": 57
+  },
+  "devtools/client/animationinspector.properties": {
+    "missing": [],
+    "total": 30
+  },
+  "devtools/client/application.ftl": {
+    "missing": [],
+    "total": 38
+  },
+  "devtools/client/boxmodel.properties": {
+    "missing": [],
+    "total": 7
+  },
+  "devtools/client/changes.properties": {
+    "missing": [],
+    "total": 14
+  },
+  "devtools/client/compatibility.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "devtools/client/components.properties": {
+    "missing": [],
+    "total": 21
+  },
+  "devtools/client/debugger.properties": {
+    "missing": [],
+    "total": 347
+  },
+  "devtools/client/device.properties": {
+    "missing": [],
+    "total": 7
+  },
+  "devtools/client/dom.properties": {
+    "missing": [],
+    "total": 2
+  },
+  "devtools/client/filterwidget.properties": {
+    "missing": [],
+    "total": 11
+  },
+  "devtools/client/font-inspector.properties": {
+    "missing": [],
+    "total": 23
+  },
+  "devtools/client/har.properties": {
+    "missing": [],
+    "total": 2
+  },
+  "devtools/client/inspector.ftl": {
+    "missing": [],
+    "total": 21
+  },
+  "devtools/client/inspector.properties": {
+    "missing": [],
+    "total": 133
+  },
+  "devtools/client/jsonview.properties": {
+    "missing": [],
+    "total": 14
+  },
+  "devtools/client/layout.properties": {
+    "missing": [],
+    "total": 31
+  },
+  "devtools/client/memory.properties": {
+    "missing": [],
+    "total": 101
+  },
+  "devtools/client/menus.properties": {
+    "missing": [],
+    "total": 14
+  },
+  "devtools/client/netmonitor.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "devtools/client/netmonitor.properties": {
+    "missing": [],
+    "total": 409
+  },
+  "devtools/client/network-throttling.properties": {
+    "missing": [],
+    "total": 4
+  },
+  "devtools/client/perftools.ftl": {
+    "missing": [],
+    "total": 89
+  },
+  "devtools/client/responsive.properties": {
+    "missing": [],
+    "total": 38
+  },
+  "devtools/client/shared.properties": {
+    "missing": [],
+    "total": 4
+  },
+  "devtools/client/sourceeditor.properties": {
+    "missing": [],
+    "total": 16
+  },
+  "devtools/client/startup.properties": {
+    "missing": [],
+    "total": 63
+  },
+  "devtools/client/storage.ftl": {
+    "missing": [],
+    "total": 43
+  },
+  "devtools/client/styleeditor.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "devtools/client/styleeditor.properties": {
+    "missing": [],
+    "total": 15
+  },
+  "devtools/client/toolbox-options.ftl": {
+    "missing": [],
+    "total": 98
+  },
+  "devtools/client/toolbox.ftl": {
+    "missing": [],
+    "total": 27
+  },
+  "devtools/client/toolbox.properties": {
+    "missing": [],
+    "total": 62
+  },
+  "devtools/client/tooltips.ftl": {
+    "missing": [],
+    "total": 95
+  },
+  "devtools/shared/accessibility.properties": {
+    "missing": [],
+    "total": 28
+  },
+  "devtools/shared/debugger-paused-reasons.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "devtools/shared/debugger.properties": {
+    "missing": [],
+    "total": 12
+  },
+  "devtools/shared/eyedropper.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "devtools/shared/highlighters.ftl": {
+    "missing": [],
+    "total": 13
+  },
+  "devtools/shared/screenshot.properties": {
+    "missing": [],
+    "total": 25
+  },
+  "devtools/shared/styleinspector.properties": {
+    "missing": [],
+    "total": 72
+  },
+  "devtools/shared/webconsole-commands.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "devtools/shared/webconsole.properties": {
+    "missing": [],
+    "total": 147
+  },
+  "devtools/startup/key-shortcuts.ftl": {
+    "missing": [],
+    "total": 17
+  },
+  "dom/chrome/accessibility/AccessFu.properties": {
+    "missing": [],
+    "total": 92
+  },
+  "dom/chrome/accessibility/mac/accessible.properties": {
+    "missing": [],
+    "total": 48
+  },
+  "dom/chrome/accessibility/unix/accessible.properties": {
+    "missing": [],
+    "total": 15
+  },
+  "dom/chrome/accessibility/win/accessible.properties": {
+    "missing": [],
+    "total": 19
+  },
+  "dom/chrome/appstrings.properties": {
+    "missing": [],
+    "total": 39
+  },
+  "dom/chrome/dom/dom.properties": {
+    "missing": [],
+    "total": 310
+  },
+  "dom/chrome/layout/HtmlForm.properties": {
+    "missing": [],
+    "total": 17
+  },
+  "dom/chrome/layout/MediaDocument.properties": {
+    "missing": [],
+    "total": 10
+  },
+  "dom/chrome/layout/css.properties": {
+    "missing": [],
+    "total": 47
+  },
+  "dom/chrome/layout/htmlparser.properties": {
+    "missing": [],
+    "total": 127
+  },
+  "dom/chrome/layout/layout_errors.properties": {
+    "missing": [],
+    "total": 18
+  },
+  "dom/chrome/layout/printing.properties": {
+    "missing": [],
+    "total": 20
+  },
+  "dom/chrome/layout/xmlparser.properties": {
+    "missing": [],
+    "total": 35
+  },
+  "dom/chrome/layout/xul.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "dom/chrome/mathml/mathml.properties": {
+    "missing": [],
+    "total": 8
+  },
+  "dom/chrome/nsWebBrowserPersist.properties": {
+    "missing": [],
+    "total": 13
+  },
+  "dom/chrome/security/caps.properties": {
+    "missing": [],
+    "total": 5
+  },
+  "dom/chrome/security/csp.properties": {
+    "missing": [],
+    "total": 58
+  },
+  "dom/chrome/security/security.properties": {
+    "missing": [],
+    "total": 102
+  },
+  "dom/chrome/svg/svg.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "dom/dom/XMLPrettyPrint.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "dom/dom/media.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "dom/dom/xslt.ftl": {
+    "missing": [],
+    "total": 34
+  },
+  "netwerk/necko.properties": {
+    "missing": [],
+    "total": 54
+  },
+  "netwerk/netwerk/necko.ftl": {
+    "missing": [],
+    "total": 11
+  },
+  "security/manager/chrome/pipnss/nsserrors.properties": {
+    "missing": [],
+    "total": 329
+  },
+  "security/manager/chrome/pipnss/pipnss.properties": {
+    "missing": [],
+    "total": 55
+  },
+  "security/manager/chrome/pippki/pippki.properties": {
+    "missing": [],
+    "total": 16
+  },
+  "security/manager/security/certificates/certManager.ftl": {
+    "missing": [],
+    "total": 94
+  },
+  "security/manager/security/certificates/deviceManager.ftl": {
+    "missing": [],
+    "total": 41
+  },
+  "security/manager/security/pippki/pippki.ftl": {
+    "missing": [],
+    "total": 47
+  },
+  "toolkit/chrome/alerts/alert.properties": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/chrome/autoconfig/autoconfig.properties": {
+    "missing": [],
+    "total": 6
+  },
+  "toolkit/chrome/global-platform/mac/platformKeys.properties": {
+    "missing": [],
+    "total": 6
+  },
+  "toolkit/chrome/global-platform/unix/platformKeys.properties": {
+    "missing": [],
+    "total": 6
+  },
+  "toolkit/chrome/global-platform/win/platformKeys.properties": {
+    "missing": [],
+    "total": 6
+  },
+  "toolkit/chrome/global/aboutStudies.properties": {
+    "missing": [],
+    "total": 13
+  },
+  "toolkit/chrome/global/autocomplete.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/chrome/global/commonDialogs.properties": {
+    "missing": [],
+    "total": 29
+  },
+  "toolkit/chrome/global/contentAreaCommands.properties": {
+    "missing": [],
+    "total": 11
+  },
+  "toolkit/chrome/global/dialog.properties": {
+    "missing": [],
+    "total": 8
+  },
+  "toolkit/chrome/global/extensions.properties": {
+    "missing": [],
+    "total": 8
+  },
+  "toolkit/chrome/global/fallbackMenubar.properties": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/chrome/global/filepicker.properties": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/chrome/global/keys.properties": {
+    "missing": [],
+    "total": 33
+  },
+  "toolkit/chrome/global/narrate.properties": {
+    "missing": [],
+    "total": 13
+  },
+  "toolkit/chrome/global/printdialog.properties": {
+    "missing": [],
+    "total": 33
+  },
+  "toolkit/chrome/global/resetProfile.properties": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/chrome/global/viewSource.properties": {
+    "missing": [],
+    "total": 11
+  },
+  "toolkit/chrome/global/wizard.properties": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/chrome/mozapps/downloads/downloads.properties": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/chrome/mozapps/downloads/unknownContentType.properties": {
+    "missing": [],
+    "total": 17
+  },
+  "toolkit/chrome/mozapps/profile/profileSelection.properties": {
+    "missing": [],
+    "total": 37
+  },
+  "toolkit/chrome/mozapps/update/updates.properties": {
+    "missing": [],
+    "total": 32
+  },
+  "toolkit/chrome/passwordmgr/passwordmgr.properties": {
+    "missing": [],
+    "total": 10
+  },
+  "toolkit/chrome/places/places.properties": {
+    "missing": [],
+    "total": 17
+  },
+  "toolkit/crashreporter/aboutcrashes.ftl": {
+    "missing": [],
+    "total": 16
+  },
+  "toolkit/crashreporter/crashreporter.ftl": {
+    "missing": [],
+    "total": 35
+  },
+  "toolkit/services/aboutSyncLog.ftl": {
+    "missing": [],
+    "total": 26
+  },
+  "toolkit/services/accounts.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/about/aboutAbout.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/about/aboutAddons.ftl": {
+    "missing": [],
+    "total": 269
+  },
+  "toolkit/toolkit/about/aboutCompat.ftl": {
+    "missing": [],
+    "total": 9
+  },
+  "toolkit/toolkit/about/aboutGlean.ftl": {
+    "missing": [],
+    "total": 82
+  },
+  "toolkit/toolkit/about/aboutHttpsOnlyError.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "toolkit/toolkit/about/aboutLogging.ftl": {
+    "missing": [],
+    "total": 84
+  },
+  "toolkit/toolkit/about/aboutMozilla.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/about/aboutNetworking.ftl": {
+    "missing": [],
+    "total": 70
+  },
+  "toolkit/toolkit/about/aboutPDF.ftl": {
+    "missing": [],
+    "total": 13
+  },
+  "toolkit/toolkit/about/aboutProcesses.ftl": {
+    "missing": [],
+    "total": 68
+  },
+  "toolkit/toolkit/about/aboutProfiles.ftl": {
+    "missing": [],
+    "total": 37
+  },
+  "toolkit/toolkit/about/aboutReader.ftl": {
+    "missing": [],
+    "total": 46
+  },
+  "toolkit/toolkit/about/aboutServiceWorkers.ftl": {
+    "missing": [],
+    "total": 16
+  },
+  "toolkit/toolkit/about/aboutSupport.ftl": {
+    "missing": [],
+    "total": 319
+  },
+  "toolkit/toolkit/about/aboutTelemetry.ftl": {
+    "missing": [],
+    "total": 75
+  },
+  "toolkit/toolkit/about/aboutThirdParty.ftl": {
+    "missing": [],
+    "total": 36
+  },
+  "toolkit/toolkit/about/aboutTranslations.ftl": {
+    "missing": [],
+    "total": 25
+  },
+  "toolkit/toolkit/about/aboutWebauthn.ftl": {
+    "missing": [],
+    "total": 104
+  },
+  "toolkit/toolkit/about/aboutWebrtc.ftl": {
+    "missing": [],
+    "total": 110
+  },
+  "toolkit/toolkit/about/aboutWindowsMessages.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/about/certviewer.ftl": {
+    "missing": [],
+    "total": 83
+  },
+  "toolkit/toolkit/about/config.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "toolkit/toolkit/about/url-classifier.ftl": {
+    "missing": [],
+    "total": 76
+  },
+  "toolkit/toolkit/branding/brandings.ftl": {
+    "missing": [],
+    "total": 25
+  },
+  "toolkit/toolkit/contentanalysis/contentanalysis.ftl": {
+    "missing": [],
+    "total": 41
+  },
+  "toolkit/toolkit/downloads/downloadUI.ftl": {
+    "missing": [],
+    "total": 11
+  },
+  "toolkit/toolkit/downloads/downloadUtils.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "toolkit/toolkit/firefoxlabs/features.ftl": {
+    "missing": [],
+    "total": 40
+  },
+  "toolkit/toolkit/formautofill/formAutofill.ftl": {
+    "missing": [],
+    "total": 39
+  },
+  "toolkit/toolkit/global/alert.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/global/antiTracking.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/global/appPicker.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/global/arrowscrollbox.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/global/browser-utils.ftl": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/toolkit/global/commonDialog.ftl": {
+    "missing": [],
+    "total": 8
+  },
+  "toolkit/toolkit/global/contextual-identity.ftl": {
+    "missing": [],
+    "total": 37
+  },
+  "toolkit/toolkit/global/createProfileWizard.ftl": {
+    "missing": [],
+    "total": 13
+  },
+  "toolkit/toolkit/global/cspErrors.ftl": {
+    "missing": [],
+    "total": 6
+  },
+  "toolkit/toolkit/global/datetimebox.ftl": {
+    "missing": [],
+    "total": 14
+  },
+  "toolkit/toolkit/global/datetimepicker.ftl": {
+    "missing": [],
+    "total": 28
+  },
+  "toolkit/toolkit/global/extensionPermissions.ftl": {
+    "missing": [],
+    "total": 52
+  },
+  "toolkit/toolkit/global/extensions.ftl": {
+    "missing": [],
+    "total": 49
+  },
+  "toolkit/toolkit/global/handlerDialog.ftl": {
+    "missing": [],
+    "total": 36
+  },
+  "toolkit/toolkit/global/htmlForm.ftl": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/toolkit/global/mozBadge.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/global/mozBoxBase.ftl": {
+    "missing": [],
+    "total": 4
+  },
+  "toolkit/toolkit/global/mozBreadcrumbGroup.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/mozButton.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/mozFiveStar.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/global/mozInputFolder.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/mozMessageBar.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "toolkit/toolkit/global/mozPageHeader.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/mozPromo.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/mozSupportLink.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/notification.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/global/popupnotification.ftl": {
+    "missing": [],
+    "total": 3
+  },
+  "toolkit/toolkit/global/processTypes.ftl": {
+    "missing": [],
+    "total": 25
+  },
+  "toolkit/toolkit/global/profileDowngrade.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "toolkit/toolkit/global/profileSelection.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/toolkit/global/resetProfile.ftl": {
+    "missing": [],
+    "total": 8
+  },
+  "toolkit/toolkit/global/resistFingerPrinting.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/rosettaNotification.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/global/run-from-dmg.ftl": {
+    "missing": [],
+    "total": 10
+  },
+  "toolkit/toolkit/global/textActions.ftl": {
+    "missing": [],
+    "total": 29
+  },
+  "toolkit/toolkit/global/theme-picker.ftl": {
+    "missing": [],
+    "total": 29
+  },
+  "toolkit/toolkit/global/tree.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/global/unknownContentType.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/toolkit/global/videocontrols.ftl": {
+    "missing": [],
+    "total": 23
+  },
+  "toolkit/toolkit/global/wizard.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/toolkit/intl/languageNames.ftl": {
+    "missing": [],
+    "total": 212
+  },
+  "toolkit/toolkit/intl/regionNames.ftl": {
+    "missing": [],
+    "total": 272
+  },
+  "toolkit/toolkit/main-window/autocomplete.ftl": {
+    "missing": [],
+    "total": 20
+  },
+  "toolkit/toolkit/main-window/findbar.ftl": {
+    "missing": [],
+    "total": 18
+  },
+  "toolkit/toolkit/neterror/certError.ftl": {
+    "missing": [],
+    "total": 116
+  },
+  "toolkit/toolkit/neterror/netError.ftl": {
+    "missing": [],
+    "total": 138
+  },
+  "toolkit/toolkit/neterror/nsserrors.ftl": {
+    "missing": [],
+    "total": 331
+  },
+  "toolkit/toolkit/passwordmgr/passwordmgr.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/toolkit/payments/payments.ftl": {
+    "missing": [],
+    "total": 5
+  },
+  "toolkit/toolkit/pdfviewer/embedFallback.ftl": {
+    "missing": [],
+    "total": 2
+  },
+  "toolkit/toolkit/pdfviewer/viewer.ftl": {
+    "missing": [],
+    "total": 353
+  },
+  "toolkit/toolkit/pictureinpicture/pictureinpicture.ftl": {
+    "missing": [],
+    "total": 24
+  },
+  "toolkit/toolkit/preferences/preferences.ftl": {
+    "missing": [],
+    "total": 23
+  },
+  "toolkit/toolkit/printing/printDialogs.ftl": {
+    "missing": [],
+    "total": 50
+  },
+  "toolkit/toolkit/printing/printPreview.ftl": {
+    "missing": [],
+    "total": 23
+  },
+  "toolkit/toolkit/printing/printUI.ftl": {
+    "missing": [],
+    "total": 84
+  },
+  "toolkit/toolkit/updates/backgroundupdate.ftl": {
+    "missing": [],
+    "total": 1
+  },
+  "toolkit/toolkit/updates/elevation.ftl": {
+    "missing": [],
+    "total": 11
+  },
+  "toolkit/toolkit/updates/history.ftl": {
+    "missing": [],
+    "total": 12
+  },
+  "toolkit/toolkit/webauthnDialog.ftl": {
+    "missing": [],
+    "total": 25
+  }
+}

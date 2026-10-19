@@ -1,0 +1,11 @@
+moz-message-bar-icon-info =
+    .alt = Bilgi
+moz-message-bar-icon-warning =
+    .alt = Uyarı
+moz-message-bar-icon-success =
+    .alt = Başarılı
+moz-message-bar-icon-error =
+    .alt = Hata
+moz-message-bar-close-button =
+    .aria-label = Kapat
+    .title = Kapat

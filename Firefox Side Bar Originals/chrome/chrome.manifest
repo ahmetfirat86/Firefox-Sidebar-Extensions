@@ -1,0 +1,39 @@
+content remote remote/content/
+content extensions toolkit/content/extensions/
+content gfxsanity toolkit/content/gfxsanity/
+content global toolkit/content/global/ contentaccessible=yes
+content mozapps toolkit/content/mozapps/
+content passwordmgr toolkit/content/passwordmgr/
+skin global classic/1.0 toolkit/skin/classic/global/
+skin help classic/1.0 toolkit/skin/classic/help/
+skin mozapps classic/1.0 toolkit/skin/classic/mozapps/
+content pippki pippki/content/pippki/
+locale alerts tr tr/locale/tr/alerts/
+locale autoconfig tr tr/locale/tr/autoconfig/
+locale global tr tr/locale/tr/global/
+locale global-platform tr tr/locale/tr/global-platform/mac/ os=Darwin
+locale global-platform tr tr/locale/tr/global-platform/unix/ os=LikeUnix os=Android
+locale global-platform tr tr/locale/tr/global-platform/win/ os=WINNT
+locale mozapps tr tr/locale/tr/mozapps/
+locale necko tr tr/locale/tr/necko/
+locale passwordmgr tr tr/locale/tr/passwordmgr/
+locale pipnss tr tr/locale/tr/pipnss/
+locale pippki tr tr/locale/tr/pippki/
+locale places tr tr/locale/tr/places/
+override chrome://mozapps/skin/extensions/category-dictionaries.svg chrome://mozapps/skin/extensions/dictionaryGeneric.svg
+override chrome://mozapps/skin/extensions/category-languages.svg chrome://mozapps/skin/extensions/localeGeneric.svg
+override chrome://mozapps/skin/extensions/category-themes.svg chrome://mozapps/skin/extensions/themeGeneric.svg
+override chrome://mozapps/skin/extensions/localeGeneric.svg chrome://mozapps/skin/extensions/dictionaryGeneric.svg
+override chrome://mozapps/skin/xpinstall/xpinstallItemGeneric.png chrome://mozapps/skin/extensions/extensionGeneric.svg
+resource autofill toolkit/res/autofill/
+resource content-accessible resource://gre/contentaccessible/ contentaccessible=yes
+resource default-theme toolkit/content/mozapps/extensions/default-theme/
+resource gfxsanity toolkit/res/gfxsanity/
+resource gre-resources toolkit/res/
+resource messaging-system toolkit/res/messaging-system/
+resource nimbus toolkit/res/nimbus/
+resource normandy toolkit/res/normandy/
+resource normandy-content toolkit/res/normandy/content/ contentaccessible=yes
+resource normandy-vendor toolkit/res/normandy/vendor/ contentaccessible=yes
+resource passwordmgr toolkit/passwordmgr/
+resource pdf.js pdfjs/content/
