@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Youglish Sidebar",
+  "version": "2.2",
+  "description": "Youglish odaklı, iframe engeline takılmayan kenar çubuğu.",
+  "permissions": [
+  "webRequest",
+  "webRequestBlocking",
+  "*://*.youglish.com/*",
+  "*://*.youtube.com/*",
+  "*://*.youtube-nocookie.com/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "sidebar_action": {
+    "default_title": "Youglish Sidebar",
+    "default_panel": "sidebar.html",
+    "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "youglish_sidebar_ahmetfirat@local.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}

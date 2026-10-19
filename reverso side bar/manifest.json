@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Reverso Sidebar",
+  "version": "2.2",
+  "description": "Reverso odaklı, iframe engeline takılmayan kenar çubuğu.",
+  "permissions": [
+  "webRequest",
+  "webRequestBlocking",
+  "*://*.reverso.net/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "sidebar_action": {
+    "default_title": "Reverso Sidebar",
+    "default_panel": "sidebar.html",
+    "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "reverso_sidebar_ahmetfirat@local.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}

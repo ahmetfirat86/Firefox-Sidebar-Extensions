@@ -6,6 +6,8 @@ const headersToRemove = [
 
 browser.webRequest.onHeadersReceived.addListener(
   function (details) {
+    if (!details.responseHeaders) return;
+
     let responseHeaders = details.responseHeaders.filter(header => {
       let headerName = header.name.toLowerCase();
       return !headersToRemove.includes(headerName);
@@ -18,7 +20,7 @@ browser.webRequest.onHeadersReceived.addListener(
       "*://*.perplexity.ai/*",
       "*://perplexity.ai/*"
     ],
-    types: ["sub_frame", "main_frame"]
+    types: ["sub_frame", "main_frame", "xmlhttprequest", "script"]
   },
   ["blocking", "responseHeaders"]
 );

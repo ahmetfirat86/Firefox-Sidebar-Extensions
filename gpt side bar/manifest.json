@@ -18,5 +18,13 @@
     "default_title": "ChatGPT",
     "default_panel": "sidebar.html",
     "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "gpt_sidebar_ahmetfirat@local.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
   }
 }

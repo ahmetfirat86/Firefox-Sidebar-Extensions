@@ -1,9 +1,0 @@
-label-disable = Devre dışı bırak
-label-enable = Etkinleştir
-label-interventions = Müdahaleler
-label-more-information = Daha fazla bilgi: Bug { $bug }
-text-disabled-in-about-config = Bu özellik about:config’de devre dışı bırakılmış
-text-no-interventions = Hiçbir müdahale kullanılmıyor
-text-page-title = Web Uyumluluğu
-label-smartblock = SmartBlock Düzeltmeleri
-text-no-smartblock = Hiç SmartBlock düzeltmesi kullanılmıyor

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Gemini & AI Sidebar",
-  "version": "2.2",
+  "version": "2.3",
   "description": "Gemini odaklı, iframe engeline takılmayan çoklu AI kenar çubuğu.",
   "permissions": [
     "webRequest",
@@ -18,5 +18,13 @@
     "default_title": "Gemini AI Sidebar",
     "default_panel": "sidebar.html",
     "default_icon": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "gemini_sidebar_ahmetfirat@local.addon",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
   }
 }
